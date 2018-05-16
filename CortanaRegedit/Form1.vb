@@ -1,9 +1,8 @@
 ﻿Imports Microsoft.Win32
 
 Public Class Form1
-    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-        ''Dim readValue = My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Windwos Search", "AllowCortana", Nothing)
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         If My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search",
             "AllowCortana", Nothing) < 1 Then
             Label1.Text = "Cortana Disabled"
@@ -15,18 +14,6 @@ Public Class Form1
             RadioButton2.Checked = False
         End If
     End Sub
-
-    Private Function Registry_Read(Key_Path, Key_Name) As VariantType
-
-        On Error Resume Next
-
-        Dim Registry As Object
-
-        Registry = CreateObject("WScript.Shell")
-
-        Registry_Read = Registry.RegRead(Key_Path & Key_Name)
-
-    End Function
 
     Private Sub RadioButton1_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton1.CheckedChanged
         Label1.Text = "Cortana Enabled"
@@ -42,7 +29,16 @@ Public Class Form1
 
     End Sub
 
-    ''Private Sub Test()
-    ''  MsgBox(Registry_Read("HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\", "W2kVersion"))
-    ''End Sub
+    Private Sub SourceCodeToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles SourceCodeToolStripMenuItem.Click
+        Dim webAddress As String = "https://github.com/Takua95/Regedit-Cortana/blob/master/CortanaRegedit/Form1.vb"
+        Process.Start(webAddress)
+    End Sub
+
+    Private Sub UserLicenseToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles UserLicenseToolStripMenuItem.Click
+        MsgBox("Don't Sue Me.")
+    End Sub
+
+    Private Sub AboutToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AboutToolStripMenuItem.Click
+        MsgBox("It Enables/Disables Cortana")
+    End Sub
 End Class
