@@ -1,0 +1,22 @@
+C:\Users\Takua\AppData\Local\Temporary Projects\CortanaRegedit\bin\Debug\CortanaRegedit.exe.config
+C:\Users\Takua\AppData\Local\Temporary Projects\CortanaRegedit\bin\Debug\CortanaRegedit.exe
+C:\Users\Takua\AppData\Local\Temporary Projects\CortanaRegedit\bin\Debug\CortanaRegedit.pdb
+C:\Users\Takua\AppData\Local\Temporary Projects\CortanaRegedit\bin\Debug\CortanaRegedit.xml
+C:\Users\Takua\AppData\Local\Temporary Projects\CortanaRegedit\obj\Debug\CortanaRegedit.Form1.resources
+C:\Users\Takua\AppData\Local\Temporary Projects\CortanaRegedit\obj\Debug\CortanaRegedit.Resources.resources
+C:\Users\Takua\AppData\Local\Temporary Projects\CortanaRegedit\obj\Debug\CortanaRegedit.vbproj.GenerateResource.cache
+C:\Users\Takua\AppData\Local\Temporary Projects\CortanaRegedit\obj\Debug\CortanaRegedit.vbproj.CoreCompileInputs.cache
+C:\Users\Takua\AppData\Local\Temporary Projects\CortanaRegedit\obj\Debug\CortanaRegedit.exe
+C:\Users\Takua\AppData\Local\Temporary Projects\CortanaRegedit\obj\Debug\CortanaRegedit.xml
+C:\Users\Takua\AppData\Local\Temporary Projects\CortanaRegedit\obj\Debug\CortanaRegedit.pdb
+C:\Users\Takua\source\repos\RelativesList\CortanaRegedit\CortanaRegedit\bin\Debug\CortanaRegedit.exe.config
+C:\Users\Takua\source\repos\RelativesList\CortanaRegedit\CortanaRegedit\bin\Debug\CortanaRegedit.exe
+C:\Users\Takua\source\repos\RelativesList\CortanaRegedit\CortanaRegedit\bin\Debug\CortanaRegedit.pdb
+C:\Users\Takua\source\repos\RelativesList\CortanaRegedit\CortanaRegedit\bin\Debug\CortanaRegedit.xml
+C:\Users\Takua\source\repos\RelativesList\CortanaRegedit\CortanaRegedit\obj\Debug\CortanaRegedit.Form1.resources
+C:\Users\Takua\source\repos\RelativesList\CortanaRegedit\CortanaRegedit\obj\Debug\CortanaRegedit.Resources.resources
+C:\Users\Takua\source\repos\RelativesList\CortanaRegedit\CortanaRegedit\obj\Debug\CortanaRegedit.vbproj.GenerateResource.cache
+C:\Users\Takua\source\repos\RelativesList\CortanaRegedit\CortanaRegedit\obj\Debug\CortanaRegedit.vbproj.CoreCompileInputs.cache
+C:\Users\Takua\source\repos\RelativesList\CortanaRegedit\CortanaRegedit\obj\Debug\CortanaRegedit.exe
+C:\Users\Takua\source\repos\RelativesList\CortanaRegedit\CortanaRegedit\obj\Debug\CortanaRegedit.xml
+C:\Users\Takua\source\repos\RelativesList\CortanaRegedit\CortanaRegedit\obj\Debug\CortanaRegedit.pdb
