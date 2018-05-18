@@ -1,2 +1,2 @@
 # Regedit-Cortana
-Visual Basic program that edits the Cortana policy
+A Visual Basic program that edits the Cortana policy within The Windows Registry.
